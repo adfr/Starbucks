@@ -1,6 +1,6 @@
 # Starbucks Recommendation engine
 
-![Starbucks](logo_starbucks.png)
+![Starbucks](logo_starbucks.png =250x250)
 
 ### Objective
 Provide a classification of the offer Starbucks sends helping them to target in a better way the offer they send to loyalty program members.
